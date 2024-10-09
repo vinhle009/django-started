@@ -1,0 +1,2 @@
+# django-started
+learn django
